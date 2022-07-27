@@ -1,0 +1,51 @@
+{
+  "editor.tabSize": 2,
+  "terminal.integrated.env.osx": {
+      "PATH": ""
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+      "editor.selectionBackground": "#f6fa07",
+      "editor.selectionForeground": "#aabbcc",
+      "editor.selectionHighlightBorder": "#dbd9da",
+      "editor.selectionHighlightBackground": "#faedf4",
+      "editor.wordHighlightBackground": "#fae18f",
+      "editor.inactiveSelectionBackground": "#db00be",
+      "editorBracketHighlight.foreground1": "#4646d4",
+      "editorBracketHighlight.foreground2": "#f19136",
+      "editorBracketHighlight.foreground3": "#1d7531",
+      "editorBracketHighlight.foreground4": "#c941f3",
+      "editorBracketHighlight.foreground5": "#84aaf1",
+      "editorBracketHighlight.foreground6": "#32c7c7",
+      "editorBracketHighlight.unexpectedBracket.foreground":"#ff0000",
+      "editorBracketMatch.background": "#c2ff9e",
+      "editorBracketMatch.border": "#f72929"
+  },
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.guides.indentation": false,
+  "files.insertFinalNewline": true,
+  "html.format.endWithNewline": true,
+  "[vue]": {
+      "editor.defaultFormatter": "octref.vetur"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.detectIndentation": false,
+  "editor.inlineSuggest.enabled": true,
+  "tabnine.experimentalAutoImports": true,
+  "javascript.suggest.names": false,
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "styleguide",
+    "turbolinks",
+    "vuex",
+    "webhook",
+    "axios",
+    "backlink"
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.colorTheme": "Solarized Autumn",
+}
